@@ -779,6 +779,9 @@ nav .main-menu2 li a::before {
   opacity: 1;
   visibility: visible;
 }
+.dexters-text{
+        color: white !important;
+    }
 .contactform-area .form-child {
   position: relative;
 }
